@@ -1,79 +1,127 @@
 <h1 align="center">Hi, I'm Guganraj 👋</h1>
 
 <p align="center">
-  <b>Full Stack Engineer • Linux & Systems Focus • MCA Student</b>
+  <b>Linux • DevOps • Systems • MCA Student</b>
+</p>
+
+<p align="center">
+  Also known online as <b>mrtuxcoder</b>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I build and ship production-ready applications with a strong focus on structure, maintainability, and real-world deployment.
+I'm an MCA student and Linux, DevOps, and systems-focused developer.
 
-My interests lie at the intersection of application development and systems engineering — particularly Linux, cloud infrastructure, and backend architecture.
+I enjoy understanding what happens after an application is written: how it is deployed, networked, secured, automated, monitored, and kept running. I learn primarily by building and operating real projects rather than working only with isolated examples.
 
-Currently preparing for **RHCSA** and deepening my understanding of system administration, automation, and scalable backend design. Working on deployment processes in Azure VMs to bridge the gap between development and production.
+My background in full-stack development helps me understand the applications I deploy, while my current focus is on Linux system administration, infrastructure, containerization, networking, CI/CD, and self-hosted systems.
+
+Currently preparing for **RHCSA** and building hands-on experience with Linux, Docker, Nginx, firewalls, SSH, CI/CD, homelabs, and server administration.
 
 ---
 
-## 💻 Selected Work
+## Selected Projects
 
-### [Guidra](https://guidra.vercel.app) — AI-Based Structured Learning Platform
-Designed and developed a structured AI learning system with modular backend architecture.
+### Guidra — Production Backend Deployment
 
-**Key aspects:**
-- Component-based content generation
-- Caching and regeneration control
-- Quiz-gated progression system
-- Versioned content handling
-- PWA deployment
+A full-stack learning platform whose backend was deployed to a self-managed Azure Linux VM.
+
+**Key deployment work:**
+
+- Linux server provisioning and administration
+- SSH key-based authentication
+- Firewall configuration
+- Nginx reverse proxy
+- SSL with Let's Encrypt
+- PM2 process management
+- MongoDB Atlas integration
+- Production environment configuration
+
+The deployment process is documented as a technical case study:
+
+[Read the Guidra deployment case study](https://www.guganraj.me/case-study?title=End-to-End+Deployment+of+Guidra+Backend+on+Azure+VM)
+
+---
+
+### Chronicle — Homelab & CI/CD Project
+
+A personal publishing platform used as a practical self-hosted infrastructure project.
+
+**Key systems work:**
+
+- Dockerized frontend, backend, and MongoDB
+- Docker Compose orchestration
+- Container networking and internal DNS
+- Nginx reverse proxy
+- Persistent MongoDB storage with Docker volumes
+- GitHub Actions CI/CD
+- GitHub Container Registry
+- Automated deployment to a Linux homelab server
+- Private connectivity using Tailscale
+- Deployment debugging and reboot recovery testing
+
+[Read the Chronicle homelab case study](https://www.guganraj.me/case-study?title=From+Code+to+Containers%3A+Chronicle+Homelab+Deployment)
+
+---
 
 ### Production Freelance Project
-Delivered and deployed a responsive business website for a local company.
+
+Delivered and deployed a responsive website for a local business.
 
 **Scope included:**
-- Frontend development and optimization
-- Domain & hosting configuration
+
+- Frontend development
+- Domain and hosting configuration
 - Production deployment
 - SEO improvements
 - Direct client communication and iteration
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Focus
 
-**Frontend**  
-React, JavaScript, TypeScript (learning), Tailwind CSS, Material UI
+### Systems & Linux
 
-**Backend**  
-Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
+Linux • Rocky Linux • System Administration • Bash • SSH • Filesystems • Storage • Networking • Firewalld
 
-**Systems**  
-Linux (Rocky OS), Bash scripting, SSH, basic cloud VM provisioning
+### Containers & Infrastructure
 
-**Tools**  
-Git, GitHub, Postman, Vercel, Render, Microsoft Azure (VM setup & configuration)
+Docker • Docker Compose • Container Networking • Nginx • Persistent Storage • Self-Hosting • Homelab
+
+### Automation & Deployment
+
+GitHub Actions • CI/CD • GitHub Container Registry • Linux Server Deployment • Tailscale
+
+### Application Background
+
+Node.js • Express.js • React • MongoDB • REST APIs
 
 ---
 
-## 📚 Focus Areas
+## Currently Learning
 
+- RHCSA preparation
 - Linux system administration
-- Backend architecture & API design
-- Cloud VM deployment & networking fundamentals
-- Automation via shell scripting
-- Azure VM deployment workflows
+- Bash and shell automation
+- Linux networking and firewall management
+- Docker and container operations
+- CI/CD and deployment automation
+- System monitoring and observability
+- Infrastructure and self-hosted services
 
 ---
 
-## 📫 Connect with Me
+## Connect
 
-- **Email:** [guganrajrengaraju@gmail.com](mailto:guganrajrengaraju@gmail.com)
-- **Portfolio:** [https://www.guganraj.me](https://www.guganraj.me)
+- **Portfolio:** [guganraj.site](https://guganraj.me)
+- **LinkedIn:** [Guganraj Rengaraju](https://www.linkedin.com/in/guganraj-rengaraju)
 - **X:** [@mrtuxcoder](https://x.com/mrtuxcoder)
+- **Email:** guganrajrengaraju@gmail.com
 
 ---
 
 <p align="center">
-  <i>Building things that matter, one commit at a time.</i>
+  <i>Learning systems by building, breaking, deploying, and fixing them.</i>
 </p>
