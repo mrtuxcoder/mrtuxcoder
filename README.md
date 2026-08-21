@@ -115,7 +115,7 @@ Node.js • Express.js • React • MongoDB • REST APIs
 
 ## Connect
 
-- **Portfolio:** [guganraj.site](https://guganraj.me)
+- **Portfolio:** [guganraj.me](https://guganraj.me)
 - **LinkedIn:** [Guganraj Rengaraju](https://www.linkedin.com/in/guganraj-rengaraju)
 - **X:** [@mrtuxcoder](https://x.com/mrtuxcoder)
 - **Email:** guganrajrengaraju@gmail.com
