@@ -41,7 +41,6 @@ A full-stack learning platform deployed on AWS, built around a containerized app
 
 **Current focus:** infrastructure as code, observability, and improving deployment and recovery workflows.
 
-[Read the Guidra deployment case study](https://notes.guganraj.me/case-study/guidra)
 
 ### Chronicle — Homelab & CI/CD
 
