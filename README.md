@@ -1,127 +1,125 @@
-<h1 align="center">Hi, I'm Guganraj 👋</h1>
+# Hi, I'm Guganraj Rengaraju
 
 <p align="center">
-  <b>Linux • DevOps • Systems • MCA Student</b>
+  <b>Linux • DevOps • Cloud Infrastructure • Automation</b>
 </p>
 
 <p align="center">
-  Also known online as <b>mrtuxcoder</b>
+  Also known as <b>mrtuxcoder</b> — building, deploying, and operating real-world systems.
 </p>
 
 ---
 
 ## About Me
 
-I'm an MCA student and Linux, DevOps, and systems-focused developer.
+I'm a systems-focused developer working toward a career in **DevOps and Cloud Engineering**, with a background in full-stack development and an MCA in progress.
 
-I enjoy understanding what happens after an application is written: how it is deployed, networked, secured, automated, monitored, and kept running. I learn primarily by building and operating real projects rather than working only with isolated examples.
+I enjoy understanding what happens beyond the application code: how systems are deployed, networked, secured, automated, monitored, and kept running.
 
-My background in full-stack development helps me understand the applications I deploy, while my current focus is on Linux system administration, infrastructure, containerization, networking, CI/CD, and self-hosted systems.
+I learn by building and operating real projects, troubleshooting deployment issues, and documenting what I learn along the way.
 
-Currently preparing for **RHCSA** and building hands-on experience with Linux, Docker, Nginx, firewalls, SSH, CI/CD, homelabs, and server administration.
+My current focus is Linux system administration, networking, containers, CI/CD, cloud infrastructure, and infrastructure automation.
 
----
+Currently preparing for **RHCSA** while expanding my hands-on experience with Linux, Docker, AWS, Nginx, and self-hosted infrastructure.
 
 ## Selected Projects
 
-### Guidra — Production Backend Deployment
+### Guidra — AWS Production Deployment
 
-A full-stack learning platform whose backend was deployed to a self-managed Azure Linux VM.
+A full-stack learning platform deployed on AWS, built around a containerized application and cloud infrastructure.
 
-**Key deployment work:**
+**Infrastructure and deployment:**
+- AWS EC2 instances behind an Application Load Balancer
+- Custom VPC with public and private subnets
+- Docker and Docker Compose for application deployment
+- Amazon ECR for container image storage
+- GitHub Actions for CI/CD
+- IAM roles and permissions for AWS access
+- HTTPS, DNS, and production configuration
+- CloudWatch alarms with SNS email notifications
+- MongoDB Atlas for application data
 
-- Linux server provisioning and administration
-- SSH key-based authentication
-- Firewall configuration
-- Nginx reverse proxy
-- SSL with Let's Encrypt
-- PM2 process management
-- MongoDB Atlas integration
-- Production environment configuration
+**Current focus:** infrastructure as code, observability, and improving deployment and recovery workflows.
 
-The deployment process is documented as a technical case study:
+[Read the Guidra deployment case study](https://notes.guganraj.me/case-study/guidra)
 
-[Read the Guidra deployment case study](https://www.guganraj.me/case-study?title=End-to-End+Deployment+of+Guidra+Backend+on+Azure+VM)
+### Chronicle — Homelab & CI/CD
 
----
+A self-hosted publishing platform used to explore containerization, Linux server administration, and automated deployment.
 
-### Chronicle — Homelab & CI/CD Project
-
-A personal publishing platform used as a practical self-hosted infrastructure project.
-
-**Key systems work:**
-
+**Infrastructure and deployment:**
 - Dockerized frontend, backend, and MongoDB
-- Docker Compose orchestration
-- Container networking and internal DNS
+- Docker Compose orchestration and container networking
 - Nginx reverse proxy
-- Persistent MongoDB storage with Docker volumes
+- Persistent data with Docker volumes
 - GitHub Actions CI/CD
-- GitHub Container Registry
+- Container image publishing
 - Automated deployment to a Linux homelab server
-- Private connectivity using Tailscale
-- Deployment debugging and reboot recovery testing
+- Private device connectivity using Tailscale
+- Deployment troubleshooting and reboot recovery testing
 
-[Read the Chronicle homelab case study](https://www.guganraj.me/case-study?title=From+Code+to+Containers%3A+Chronicle+Homelab+Deployment)
+[Read the Chronicle homelab case study](https://notes.guganraj.me/case-study/chronicle)
+
+### LANBox — Linux File-Sharing Deployment
+
+A file-sharing application that I use to explore Linux deployment automation and self-hosted services.
+
+**Focus areas:**
+- Linux server administration
+- Application deployment and configuration
+- Networking and service accessibility
+- Repeatable deployment workflows
+
+[Explore my projects and case studies](https://www.guganraj.me)
+
+### Freelance Web Development
+
+Delivered a responsive website for a local business, covering frontend development, domain and hosting configuration, production deployment, SEO improvements, and client feedback.
 
 ---
 
-### Production Freelance Project
+## Technical Skills
 
-Delivered and deployed a responsive website for a local business.
+**Linux & Systems**
 
-**Scope included:**
+Linux • Bash • SSH • System Administration • Networking • Firewalls • Storage
 
-- Frontend development
-- Domain and hosting configuration
-- Production deployment
-- SEO improvements
-- Direct client communication and iteration
+**Containers & Infrastructure**
 
----
+Docker • Docker Compose • Nginx • Container Networking • Persistent Storage • Homelab
 
-## Technical Focus
+**Cloud & Automation**
 
-### Systems & Linux
+AWS EC2 • S3 • IAM • ECR • VPC • Application Load Balancer • GitHub Actions • CI/CD
 
-Linux • Rocky Linux • System Administration • Bash • SSH • Filesystems • Storage • Networking • Firewalld
-
-### Containers & Infrastructure
-
-Docker • Docker Compose • Container Networking • Nginx • Persistent Storage • Self-Hosting • Homelab
-
-### Automation & Deployment
-
-GitHub Actions • CI/CD • GitHub Container Registry • Linux Server Deployment • Tailscale
-
-### Application Background
+**Application Development**
 
 Node.js • Express.js • React • MongoDB • REST APIs
+
+**Monitoring & Infrastructure as Code**
+
+CloudWatch • SNS • Terraform *(learning)* • Prometheus & Grafana *(learning)*
 
 ---
 
 ## Currently Learning
 
-- RHCSA preparation
-- Linux system administration
-- Bash and shell automation
-- Linux networking and firewall management
-- Docker and container operations
-- CI/CD and deployment automation
-- System monitoring and observability
-- Infrastructure and self-hosted services
+- RHCSA and Linux system administration
+- Linux networking and troubleshooting
+- Bash automation and operational scripting
+- Terraform and infrastructure as code
+- Prometheus, Grafana, and observability
+- Deployment reliability and recovery practices
 
 ---
 
 ## Connect
 
-- **Portfolio:** [guganraj.me](https://guganraj.me)
+- **Portfolio:** [guganraj.me](https://www.guganraj.me)
 - **LinkedIn:** [Guganraj Rengaraju](https://www.linkedin.com/in/guganraj-rengaraju)
 - **X:** [@mrtuxcoder](https://x.com/mrtuxcoder)
 - **Email:** guganrajrengaraju@gmail.com
 
----
-
 <p align="center">
-  <i>Learning systems by building, breaking, deploying, and fixing them.</i>
+  <i>Learning systems by building, deploying, troubleshooting, and improving them.</i>
 </p>
