@@ -1,4 +1,4 @@
-# Hi, I'm Guganraj Rengaraju
+# Hi, I'm Guganraj
 
 <p align="center">
   <b>Linux • DevOps • Cloud Infrastructure • Automation</b>
